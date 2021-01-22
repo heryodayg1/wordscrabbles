@@ -1,0 +1,12 @@
+/Users/mac/Projects/Scrambles/bin/Debug/netcoreapp3.1/Scrambles.deps.json
+/Users/mac/Projects/Scrambles/bin/Debug/netcoreapp3.1/Scrambles.runtimeconfig.json
+/Users/mac/Projects/Scrambles/bin/Debug/netcoreapp3.1/Scrambles.runtimeconfig.dev.json
+/Users/mac/Projects/Scrambles/bin/Debug/netcoreapp3.1/Scrambles.dll
+/Users/mac/Projects/Scrambles/bin/Debug/netcoreapp3.1/Scrambles.pdb
+/Users/mac/Projects/Scrambles/obj/Debug/netcoreapp3.1/Scrambles.csprojAssemblyReference.cache
+/Users/mac/Projects/Scrambles/obj/Debug/netcoreapp3.1/Scrambles.AssemblyInfoInputs.cache
+/Users/mac/Projects/Scrambles/obj/Debug/netcoreapp3.1/Scrambles.AssemblyInfo.cs
+/Users/mac/Projects/Scrambles/obj/Debug/netcoreapp3.1/Scrambles.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/Scrambles/obj/Debug/netcoreapp3.1/Scrambles.dll
+/Users/mac/Projects/Scrambles/obj/Debug/netcoreapp3.1/Scrambles.pdb
+/Users/mac/Projects/Scrambles/obj/Debug/netcoreapp3.1/Scrambles.genruntimeconfig.cache
